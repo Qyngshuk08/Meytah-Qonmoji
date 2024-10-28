@@ -1,4 +1,6 @@
-# Meytah Quonmoji: A Minimalist Language System
+# Meytah Quonmoji: A Meta Con-Lang 
+![Image Description](![M](https://github.com/user-attachments/assets/08c7f84e-15cd-4ea3-9246-8d99850517cc)
+)
 
 **Introduction**
 
