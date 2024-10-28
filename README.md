@@ -1,10 +1,10 @@
-## Meytah Quonmoji: A Meta Con-Lang 
+## Meytah Qonmoji : A Meta Con-Lang 
 
 ![M-removebg-preview_3_optimized](https://github.com/user-attachments/assets/d1d02395-cfdd-4de0-be96-18d6d20ce81f)   
 
 **Introduction**
 
-Meytah Quonmoji is a unique language system that employs a minimalist approach to communication. It utilizes a limited set of symbols to express a wide range of concepts and emotions. This project aims to explore the potential of this language system by developing computational tools and techniques to analyze, generate, and translate Meytah Quonmoji texts.
+Meytah Qonmoji is a unique language system that employs a minimalist approach to communication. It utilizes a limited set of symbols to express a wide range of concepts and emotions. This project aims to explore the potential of this language system by developing computational tools and techniques to analyze, generate, and translate Meytah Qonmoji texts.
 
 **Key Objectives**
 
