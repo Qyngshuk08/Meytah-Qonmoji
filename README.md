@@ -1,6 +1,6 @@
 # Meytah Quonmoji: A Meta Con-Lang 
 
-![M](https://github.com/user-attachments/assets/d7191480-62e6-4561-8768-555561e0522f)
+![M](https://github.com/user-attachments/assets/816c87fe-87c0-405f-826b-66aa3eb60bed)
 
 **Introduction**
 
