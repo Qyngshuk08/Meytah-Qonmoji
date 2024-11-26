@@ -2,7 +2,7 @@
 
 ![M-removebg-preview_3_optimized](https://github.com/user-attachments/assets/d1d02395-cfdd-4de0-be96-18d6d20ce81f)   
 
-<a href="https://6ksdn4.csb.app/">Link to the APP.</a>
+<a href="https://6ksdn4.csb.app/">Link to the APP</a>
 
 **Introduction**
 
